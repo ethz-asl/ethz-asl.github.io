@@ -26,36 +26,57 @@
         <h1>
 <a id="about-the-autonomous-systems-lab" class="anchor" href="#about-the-autonomous-systems-lab" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About the Autonomous Systems Lab</h1>
 
-<p><strong>UNDER CONSTRUCTION</strong></p>
+<p>The <a href="http://www.asl.ethz.ch/">Autonomous Systems Lab</a> is part of the Mechanical Engineering department at ETH Zurich, under Prof. Roland Siegwart.</p>
+
+<p>The main focus of the lab is autonomous robotic systems, including hardware, state estimation, perception, and planning.
+A small subset of the software packages we've made available open-source are listed and described here.</p>
 
 <h1>
 <a id="open-source-projects" class="anchor" href="#open-source-projects" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Open-Source Projects</h1>
 
+<p>These projects are divided by general area. Note that not all of these are appropriate for every robot or application, please read each package's individual documentation.</p>
+
 <h2>
 <a id="state-estimation" class="anchor" href="#state-estimation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>State Estimation</h2>
 
-<p>rovio</p>
+<p><a href="https://github.com/ethz-asl/rovio">rovio</a> -- Robust Visual Inertial Odometry framework, estimating the pose of a robot based on synchronized IMU and monocular or stereo camera input. EKF-based.</p>
+
+<p><a href="https://github.com/ethz-asl/ethzasl_msf">ethzasl_msf</a> -- Multi-sensor fusion, allowing fusing multiple sensors estimating a robots' pose together, such as multiple IMUs, IMU and camera pose estimates, external position tracking estimates, etc. Compensates for sensor delays.</p>
 
 <h2>
 <a id="perception" class="anchor" href="#perception" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Perception</h2>
 
-<p>volumetric_mapping</p>
+<p><a href="https://github.com/ethz-asl/libpointmatcher">libpointmatcher</a> -- A library implementing various ICP (Iterative Closest Point) algorithms for laser and other scan matching in 3D. A ROS wrapper is available at <a href="https://github.com/ethz-asl/ethzasl_icp_mapping">ethzasl_icp_mapping</a>.</p>
+
+<p><a href="https://github.com/ethz-asl/volumetric_mapping">volumetric_mapping</a> -- Wrapper around Octomap, allowing input from various data sources (such as disparity maps) and a more flexible sensor position interface. 
+<a href="https://github.com/ethz-asl/grid_map">grid_map</a> -- 2.5 D grid-based mapping with multiple layers for robot navigation.</p>
+
+<p><a href="https://github.com/ethz-asl/elevation_mapping">elevation_mapping</a> -- Local elevation mapping, expressed in a robot-centric frame for navigation, especially for walking robots.</p>
+
+<h2>
+<a id="calibration" class="anchor" href="#calibration" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Calibration</h2>
+
+<p><a href="https://github.com/ethz-asl/kalibr">kalibr</a> -- Camera and IMU calibration toolbox.</p>
 
 <h2>
 <a id="planning" class="anchor" href="#planning" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Planning</h2>
 
-<p>???</p>
+<p><a href="https://github.com/ethz-asl/StructuralInspectionPlanner">StructuralInspectionPlanner</a> -- Toolbox for planning paths for a flying robot to inspect a structure for which a mesh representation is known.</p>
 
 <h2>
-<a id="control" class="anchor" href="#control" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Control</h2>
+<a id="simulation" class="anchor" href="#simulation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Simulation</h2>
 
-<p>???</p>
+<p><a href="https://github.com/ethz-asl/rotors_simulator">rotors_simulator</a> -- Gazebo-based simulator for multirotor helicopters and quadrotors. Provides physical models, sensor models, octomap generation from Gazebo world, and realistic aerodynamics simulation.</p>
+
+<h2>
+<a id="mathematics" class="anchor" href="#mathematics" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Mathematics</h2>
+
+<p><a href="https://github.com/ethz-asl/minkindr">minkindr</a> -- Lightweight, simple transformation library, handling Quaternion-based transformations. Conversions to/from ROS are available as part of the <a href="https://github.com/ethz-asl/minkindr_ros">minkindr_ros</a> package.</p>
 
 <h2>
 <a id="hardware-interfacesdrivers" class="anchor" href="#hardware-interfacesdrivers" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Hardware Interfaces/Drivers</h2>
 
-<p>visensor_node
-others...</p>
+<p><a href="https://github.com/ethz-asl/visensor_node">visensor_node</a>, <a href="https://github.com/ethz-asl/libvisensor">libvisensor</a> -- Drivers for the VI Sensor, a sensor with a stereo head synchronized to an IMU.</p>
       </section>
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
