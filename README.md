@@ -20,6 +20,7 @@ These projects are divided by general area. Note that not all of these are appro
 [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) -- A library implementing various ICP (Iterative Closest Point) algorithms for laser and other scan matching in 3D. A ROS wrapper is available at [ethzasl_icp_mapping](https://github.com/ethz-asl/ethzasl_icp_mapping).
 
 [volumetric_mapping](https://github.com/ethz-asl/volumetric_mapping) -- Wrapper around Octomap, allowing input from various data sources (such as disparity maps) and a more flexible sensor position interface. 
+
 [grid_map](https://github.com/ethz-asl/grid_map) -- 2.5 D grid-based mapping with multiple layers for robot navigation.
 
 [elevation_mapping](https://github.com/ethz-asl/elevation_mapping) -- Local elevation mapping, expressed in a robot-centric frame for navigation, especially for walking robots.
