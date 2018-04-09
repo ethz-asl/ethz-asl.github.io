@@ -10,6 +10,8 @@ These projects are divided by general area. Note that not all of these are appro
 
 
 ## State Estimation
+[maplab](https://github.com/ethz-asl/maplab) -- Research-oriented visual-inertial mapping framework, written in C++, for creating, processing and manipulating multi-session maps. On the one hand, maplab can be considered as a ready-to-use visual-inertial mapping and localization system. On the other hand, maplab provides a collection of multi-session mapping tools that include map merging, visual-inertial batch optimization, and loop closure.
+
 [rovio](https://github.com/ethz-asl/rovio) -- Robust Visual Inertial Odometry framework, estimating the pose of a robot based on synchronized IMU and monocular or stereo camera input. EKF-based.
 
 [ethzasl_msf](https://github.com/ethz-asl/ethzasl_msf) -- Multi-sensor fusion, allowing fusing multiple sensors estimating a robots' pose together, such as multiple IMUs, IMU and camera pose estimates, external position tracking estimates, etc. Compensates for sensor delays.
