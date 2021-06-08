@@ -41,3 +41,5 @@ These projects are divided by general area. Note that not all of these are appro
 
 ## Hardware Interfaces/Drivers
 [visensor_node](https://github.com/ethz-asl/visensor_node), [libvisensor](https://github.com/ethz-asl/libvisensor) -- Drivers for the VI Sensor, a sensor with a stereo head synchronized to an IMU.
+
+[VersaVIS](https://github.com/ethz-asl/versavis) -- Provides a complete, open-source hardware, firmware and software bundle to perform time synchronization of multiple cameras with an IMU featuring exposure compensation, host clock translation and independent and stereo camera triggering.
