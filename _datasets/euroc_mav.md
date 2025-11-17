@@ -4,8 +4,8 @@ paper: "The EuRoC micro aerial vehicle datasets, IJRR 2016"
 citation: "M. Burri et al., IJRR, 2016"
 year: 2016
 tags: [visual-inertial, MAV, SLAM]
-doi: "10.3929/ethz-b-000XXXXX"   # replace with actual ETH Research Collection DOI
-eth_collection_url: "https://www.research-collection.ethz.ch/handle/20.500.11850/XXXXX"
+doi: "10.3929/ethz-b-000690084   # replace with actual ETH Research Collection DOI
+eth_collection_url: "https://doi.org/10.3929/ethz-b-000690084"
 layout: dataset                  # we’ll make this layout in a second
 ---
 
