@@ -34,10 +34,7 @@ For each sequence there are two archive versions available:
 - **Processed**: state estimates from FAST‑LIO2, undistorted point clouds (for points with available state estimates), and typically the first second of data removed to allow FAST-LIO2 to stabilise. :contentReference[oaicite:3]{index=3}
 
 ## Downloads
-
-- [Data Repository (landing page)](https://robotics.ethz.ch)
-- [processed.zip (~13.7 GB)](https://robotics.ethz.ch/processed.zip)
-- [raw.zip (~15.1 GB)](https://robotics.ethz.ch/raw.zip) :contentReference[oaicite:4]{index=4}
+**TODO!!!** Will be part of the ETH Research Collection.
 
 ## Use Cases & Applications
 
@@ -49,7 +46,3 @@ For each sequence there are two archive versions available:
 
 > L. Schmid, O. Andersson, A. Sulser, P. Pfreundschuh, R. Siegwart,
 > **“Dynablox: Real-time Detection of Diverse Dynamic Objects in Complex Environments”**, IEEE Robotics and Automation Letters (RA-L), Vol. 8, No. 10, pp. 6259-6266, 2023.
-
----
-
-*This page is part of the ASL Datasets collection.*
