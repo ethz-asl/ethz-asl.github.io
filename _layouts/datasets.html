@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<article class="dataset">
+  <h1>{{ page.title }}</h1>
+
+  {% if page.year or page.doi %}
+  <p>
+    {% if page.year %}<strong>Year:</strong> {{ page.year }}<br>{% endif %}
+    {% if page.doi %}<strong>DOI:</strong> <a href="https://doi.org/{{ page.doi }}">{{ page.doi }}</a>{% endif %}
+  </p>
+  {% endif %}
+
+  {{ content }}
+
+  {% if page.tags %}
+  <p><strong>Tags:</strong>
+    {% for tag in page.tags %}
+      <span class="tag">{{ tag }}</span>{% if forloop.last == false %}, {% endif %}
+    {% endfor %}
+  </p>
+  {% endif %}
+</article>
