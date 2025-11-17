@@ -26,7 +26,7 @@ M. Burri, J. Nikolic, P. Gohl, T. Schneider, J. Rehder, S. Omari, M. Achtelik, R
 <details>
 <summary><strong>BibTeX Citation</strong></summary>
 
-```
+<pre>
 @article{Burri25012016,
   author  = {Burri, Michael and Nikolic, Janosch and Gohl, Pascal and Schneider, Thomas and Rehder, Joern and Omari, Sammy and Achtelik, Markus W and Siegwart, Roland},
   title   = {The EuRoC micro aerial vehicle datasets},
@@ -36,7 +36,7 @@ M. Burri, J. Nikolic, P. Gohl, T. Schneider, J. Rehder, S. Omari, M. Achtelik, R
   eprint  = {http://ijr.sagepub.com/content/early/2016/01/21/0278364915620033.full.pdf+html},
   journal = {The International Journal of Robotics Research}
 }
-```
+</pre>
 </details>
 
 ## Downloads

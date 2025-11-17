@@ -15,7 +15,7 @@ This dataset suite presents three indoor change-detection scenarios collected by
 ## Dataset Description
 
 The dataset contains **three indoor environments**:
-- **office** – A controlled office scene with four tripod static observations. :contentReference[oaicite:1]{index=1}
+- **office** – A controlled office scene with four tripod static observations.
 - **lounge** – A challenging meeting-area/office lounge, hand-held recordings over two weeks, frequent object changes, varying overlap ~50–100%.
 - **living_room** – A baseline scene with nine hand-held recordings in a controlled indoor environment, high overlap and multiple viewpoints.
 
