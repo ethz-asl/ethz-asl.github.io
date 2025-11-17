@@ -4,6 +4,7 @@ plugins:
 
 title: ETH Zurich Autonomous Systems Lab
 description: Datasets and open-source code from the Autonomous Systems Lab (ASL) at ETH Zurich, led by Prof. Roland Siegwart.
+logo: /assets/img/logo.png
 
 collections:
   datasets:
