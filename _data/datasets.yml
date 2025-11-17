@@ -1,0 +1,10 @@
+- id: euroc-mav
+  title: EuRoC MAV Dataset
+  year: 2016
+  tags: [visual-inertial, MAV, SLAM]
+  eth_collection_url: "https://..."
+- id: dynablox
+  title: Dynablox
+  year: 2023
+  tags: [lidar, dynamic-objects]
+  eth_collection_url: "https://..."

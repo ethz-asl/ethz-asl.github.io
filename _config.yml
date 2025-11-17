@@ -1,0 +1,11 @@
+collections:
+  datasets:
+    output: true
+    permalink: /datasets/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "datasets"
+    values:
+      layout: dataset
