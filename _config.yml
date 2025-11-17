@@ -18,3 +18,11 @@ defaults:
       layout: dataset
 
 logo: /assets/img/logo.png
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge

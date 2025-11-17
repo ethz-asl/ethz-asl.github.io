@@ -4,8 +4,6 @@ title: "ASL Datasets"
 permalink: /datasets/
 ---
 
-<h1>ASL Datasets</h1>
-
 <p>
 This page lists datasets recorded at the Autonomous Systems Lab.
 The actual data files are hosted on the ETH Research Collection and other long-term repositories.
