@@ -1,6 +1,6 @@
 ---
 layout: dataset
-title: "IROS 2017 – Voxblox Dataset"
+title: "Voxblox Dataset (Cow & Lady)"
 year: 2017
 tags: [tsdf, esdf, mapping, reconstruction, planning, mav]
 eth_collection_url: "https://doi.org/10.3929/ethz-b-000721636"

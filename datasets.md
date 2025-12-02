@@ -92,7 +92,7 @@ The actual data files are hosted on the ETH Research Collection and other long-t
 
   .dataset-row--featured {
     background: #fff7d6;
-    border: 2px solid #f1c40f;      /* full outline */
+    border: 1px solid #f1c40f;      /* full outline */
   }
 
 </style>
