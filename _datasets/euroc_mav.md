@@ -6,6 +6,7 @@ year: 2016
 tags: [visual-inertial, MAV, SLAM]
 doi: "10.3929/ethz-b-000690084"
 eth_collection_url: "https://doi.org/10.3929/ethz-b-000690084"
+featured: true        # ← star this one
 layout: dataset
 ---
 
