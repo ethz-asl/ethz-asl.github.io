@@ -6,6 +6,7 @@ tags: [tsdf, esdf, mapping, reconstruction, planning, mav]
 eth_collection_url: "https://doi.org/10.3929/ethz-b-000721636"
 paper: "Helen Oleynikova, Zachary Taylor, Markus Fehr, Juan Nieto, Roland Siegwart – Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning (IROS 2017)"
 doi: "10.3929/ethz-b-000721636"
+featured: true        # ← star this one
 ---
 
 ![Cow & Lady](/assets/datasets/voxblox/scene_photo.jpg)
