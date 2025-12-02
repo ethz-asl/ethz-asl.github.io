@@ -62,67 +62,89 @@ The actual data files are hosted on the ETH Research Collection and other long-t
 </div>
 
 <style>
-  .dataset-table-wrapper {
-    margin-top: 1rem;
-    font-size: 0.9rem;
-  }
+/* === ASL dataset table: LaTeX / IEEE style === */
 
-  .dataset-table {
-    width: 100%;
-    border-collapse: collapse;
-  }
+.dataset-table-wrapper {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
 
-  .dataset-table thead th {
-    text-align: left;
-    font-weight: 600;
-    padding: 0.25rem 0.4rem;
-    border-bottom: 1.5px solid #000000; /* top rule (header) */
-    border-top: 1.5px solid #000000; /* bottom rule (header) */
-    font-size: 0.85rem;
-  }
+.dataset-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-top: 1.5px solid #000;      /* top rule */
+}
 
-  .dataset-table tbody td {
-    padding: 0.18rem 0.4rem;
-    border-top: 0.5px solid #cccccc; /* thin horizontal rules between rows */
-    vertical-align: top;
-  }
+/* Header row */
+.dataset-table thead th {
+  padding: 0.25rem 0.6rem 0.2rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-align: left;
+  border-bottom: 1.5px solid #000;   /* heavy rule under header */
+}
 
-  .dataset-table tbody tr:last-child td {
-    border-bottom: 1.5px solid #000000; /* bottom rule like IEEE tables */
-  }
+/* Body cells */
+.dataset-table tbody td {
+  padding: 0.18rem 0.6rem 0.12rem;
+  vertical-align: baseline;
+  border: none;                      /* no per-row rules (like LaTeX) */
+}
 
-  .dt-year {
-    white-space: nowrap;
-    font-variant-numeric: tabular-nums;
-    width: 3.2rem;
-  }
+/* Bottom rule of table */
+.dataset-table tbody tr:last-child td {
+  border-bottom: 1.5px solid #000;
+}
 
-  .dt-links {
-    white-space: nowrap;
-  }
+/* Column tweaks */
+.dt-year {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  width: 3.2rem;
+}
 
-  .dt-title a {
-    font-weight: 500;
-  }
+.dt-links {
+  white-space: nowrap;
+  text-align: right;
+}
 
-  .dt-title a:hover,
-  .dt-title a:focus {
-    text-decoration: underline;
-  }
+.dt-title a {
+  font-weight: 500;
+}
 
-  .dt-description {
-    color: #555555;
-  }
+.dt-title a:hover,
+.dt-title a:focus {
+  text-decoration: underline;
+}
 
-  /* Featured row styling: keeps the fun star + yellow, but table-ish */
-  .dataset-row--featured {
-    background: #fffbe8;
-    box-shadow: inset 0 0 0 1px #f1c40f;
-  }
+.dt-description {
+  color: #555;
+}
 
-  .dt-star {
-    color: #e39b00;
-    margin-right: 0.3rem;
-    font-size: 0.9em;
-  }
+/* Featured rows: keep yellow highlight + box, but subtle */
+.dataset-row--featured {
+  background: #fffbe8;
+  box-shadow: inset 0 0 0 1px #f1c40f;
+}
+
+.dt-star {
+  color: #e39b00;
+  margin-right: 0.35rem;
+  font-size: 0.9em;
+}
+
+/* Light horizontal separators (IEEE-ish but slightly modern) */
+.dataset-table tbody tr {
+  border-bottom: 0.6px solid #ddd;   /* subtle, barely visible */
+}
+
+.dataset-table tbody tr:last-child {
+  border-bottom: 1.5px solid #000;   /* keep heavy final rule */
+}
+
+.dataset-table thead th {
+  border-bottom: 2.5px solid #000;   /* thicker IEEE-style header rule */
+}
+
+
 </style>

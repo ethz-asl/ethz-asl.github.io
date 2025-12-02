@@ -5,9 +5,8 @@
 
 /* --- Global typography: LaTeX-ish --- */
 body {
-  font-family: "Latin Modern Roman", "Computer Modern Serif",
-               Georgia, "Times New Roman", serif;
-  line-height: 1.35;
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
+  line-height: 1.4;
   font-size: 16px;
   max-width: 900px;              /* narrow column like a paper */
   margin: 0 auto;
@@ -18,7 +17,9 @@ body {
 
 /* Headings: lighter weight, more like LaTeX section headings */
 h1, h2, h3, h4 {
-  font-weight: 500;
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
+  font-weight: 600;
+  letter-spacing: 0.01em;
   margin-top: 1.4em;
   margin-bottom: 0.4em;
 }
