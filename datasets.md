@@ -33,22 +33,6 @@ The actual data files are hosted on the ETH Research Collection and other long-t
         <a href="{{ dataset.url | relative_url }}" class="dataset-row__title">
           {{ dataset.title }}
         </a>
-
-        {%- if dataset.venue -%}
-          <span class="dataset-row__meta">• {{ dataset.venue }}</span>
-        {%- endif -%}
-
-        {%- if dataset.doi -%}
-          <span class="dataset-row__meta">• DOI</span>
-        {%- endif -%}
-
-        {%- if dataset.data_url -%}
-          <span class="dataset-row__meta">• Data</span>
-        {%- endif -%}
-
-        {%- if dataset.description -%}
-          <span class="dataset-row__description">— {{ dataset.description | strip_newlines }}</span>
-        {%- endif -%}
       </span>
     </article>
   {%- endfor -%}
@@ -106,6 +90,9 @@ The actual data files are hosted on the ETH Research Collection and other long-t
   }
 
   .dataset-row--featured {
-    background: #fffdf4;
+    background: #fff7d6;
+    border-left: 3px solid #f1c40f;
+    padding-left: 0.5rem;
   }
+
 </style>
