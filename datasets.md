@@ -45,12 +45,13 @@ The actual data files are hosted on the ETH Research Collection and other long-t
     font-size: 0.9rem;
   }
 
-  .dataset-row {
-    display: flex;
-    align-items: baseline;
-    padding: 0.25rem 0;
-    border-bottom: 1px solid #f0f0f0;
-  }
+.dataset-row {
+  display: flex;
+  align-items: baseline;
+  padding: 0.25rem 0.4rem; /* give a tiny bit of horizontal padding */
+  border-bottom: 1px solid #f0f0f0;
+  box-sizing: border-box;   /* essential for no shifting */
+}
 
   .dataset-row__year {
     flex: 0 0 3.2rem; /* fixed year column */
@@ -91,8 +92,7 @@ The actual data files are hosted on the ETH Research Collection and other long-t
 
   .dataset-row--featured {
     background: #fff7d6;
-    border-left: 3px solid #f1c40f;
-    padding-left: 0.5rem;
+    border: 2px solid #f1c40f;      /* full outline */
   }
 
 </style>
