@@ -1,0 +1,133 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* --- Global typography: LaTeX-ish --- */
+body {
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
+  line-height: 1.4;
+  font-size: 16px;
+  max-width: 900px;              /* narrow column like a paper */
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
+  background: #fafafa;
+  color: #111111;
+}
+
+/* Headings: lighter weight, more like LaTeX section headings */
+h1, h2, h3, h4 {
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  margin-top: 1.4em;
+  margin-bottom: 0.4em;
+}
+
+h1 {
+  font-size: 1.7rem;
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 0.3rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
+
+p {
+  margin: 0.4em 0 0.7em;
+}
+
+/* Links: simple, academic blue */
+a {
+  color: #0645ad;
+  text-decoration: none;
+}
+a:hover, a:focus {
+  text-decoration: underline;
+}
+
+/* Code blocks / preformatted */
+code, pre {
+  font-family: "Latin Modern Mono", "Courier New", monospace;
+  background: #f7f7f7;
+  font-size: 0.9em;
+}
+pre {
+  padding: 0.6rem 0.8rem;
+  overflow-x: auto;
+}
+
+.tag {
+  background: #e0e0e0;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* --- Sidebar cleanup for Minimal theme --- */
+
+/* Overall layout: slightly wider content, slimmer sidebar */
+.wrapper {
+  max-width: 1100px;
+}
+
+/* Sidebar block (the left column header) */
+.wrapper > header {
+  width: 230px;                /* narrower sidebar */
+  padding-top: 1.5rem;
+  padding-right: 1.5rem;
+  padding-bottom: 1.5rem;
+  color: #444;
+}
+
+/* Main content column */
+.wrapper > section {
+  margin-left: 250px;          /* match header width + a bit of gap */
+  padding-top: 1.5rem;
+}
+
+/* Logo: a bit smaller, with breathing room */
+.wrapper > header img {
+  display: block;
+  max-width: 200px;
+  margin: 0 0 0.8rem 0;
+}
+
+/* “ETHZ ASL” title */
+.wrapper > header h1 {
+  font-size: 1.15rem;
+  margin: 0 0 0.25rem;
+  letter-spacing: 0.04em;
+}
+
+/* Subtitle / description text under the logo */
+.wrapper > header p {
+  margin: 0.15rem 0 0.6rem;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+/* Sidebar link list: no bullets, tighter spacing */
+.wrapper > header ul {
+  list-style: none;
+  margin: 0.6rem 0 1.2rem;
+  padding-left: 0;
+}
+
+.wrapper > header ul li {
+  margin: 0.15rem 0;
+}
+
+/* Sidebar links: same blue as content, but calmer weight */
+.wrapper > header a {
+  font-weight: 400;
+}
+
+/* “This project is maintained by …” and footer bits */
+.wrapper > footer {
+  font-size: 0.75rem;
+  color: #777;
+  margin-top: 1.5rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid #e3e3e3;
+}

@@ -5,7 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    <link rel="icon" type="image/png" href="/assets/img/favicon-32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/assets/img/favicon-64.png" sizes="64x64">
+
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -24,6 +29,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul class="sidebar-links">
+          <li><a href="/">Open-Source Software</a></li>
           <li><a href="/datasets/">Datasets</a></li>
           <li><a href="https://github.com/ethz-asl">GitHub Organization</a></li>
           <li><a href="https://asl.ethz.ch">ASL Homepage</a></li>

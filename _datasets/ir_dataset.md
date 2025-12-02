@@ -1,6 +1,6 @@
 ---
 layout: dataset
-title: "IR ICRA 2014 – Illumination-Robust Visual-Inertial Dataset"
+title: "Illumination-Robust Visual-Inertial Dataset"
 year: 2014
 tags: [visual-inertial, illumination, calibration, slam]
 eth_collection_url: "https://doi.org/10.3929/ethz-b-000721641"

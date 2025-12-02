@@ -1,0 +1,31 @@
+# === Jekyll build output ===
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# === Ruby ===
+*.gem
+*.rbc
+.bundle/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
+
+# Gemfile lock (optional: ignore if you don't need deterministic builds)
+Gemfile.lock
+
+# === OS junk ===
+.DS_Store
+Thumbs.db
+
+# === Node / tooling (if any) ===
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# === Editors ===
+*.swp
+*.swo
+*~

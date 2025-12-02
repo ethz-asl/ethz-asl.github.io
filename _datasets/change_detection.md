@@ -1,6 +1,6 @@
 ---
 layout: dataset
-title: "ICRA 2017 – Change Detection Datasets"
+title: "Change Detection Datasets"
 year: 2017
 tags: [indoor, change-detection, TSDF, dynamic-objects]
 eth_collection_url: "https://doi.org/10.3929/ethz-b-000721640"
