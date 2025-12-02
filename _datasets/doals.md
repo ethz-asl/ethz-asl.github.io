@@ -2,7 +2,7 @@
 layout: dataset
 title: "Urban Dynamic Objects LiDAR Dataset"
 year: 2021
-tags: [mapping, lidar, dynamic, pedestrian]
+tags: [mapping, lidar, dynamic, pedestrian, slam, urban, outdoor]
 eth_collection_url: "http://hdl.handle.net/20.500.11850/788171"
 paper: "Dynamic Object Aware LiDAR SLAM based on Automatic Generation of Training Data"
 doi: "10.3929/ethz-c-000788171"
