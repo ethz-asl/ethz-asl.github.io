@@ -48,7 +48,7 @@ The actual data files are hosted on the ETH Research Collection and other long-t
 
           <td class="dt-links">
             {%- if dataset.doi -%}
-              <a href="/{{ dataset.doi }}">DOI</a>
+              <a href="{{ dataset.eth_collection_url }}">Data</a>
             {%- endif -%}
           </td>
         </tr>
