@@ -3,7 +3,7 @@ layout: dataset
 title: "HF-Net: Robust Hierarchical Localization at Large Scale"
 year: 2019
 tags: [localization, sfm, features, vision, 6dof]
-eth_collection_url: "http://hdl.handle.net/20.500.11850/788517"
+eth_collection_url: "https://doi.org/10.3929/ethz-c-000788517"
 paper: "P.-E. Sarlin, C. Cadena, R. Siegwart, M. Dymczyk, “From Coarse to Fine: Robust Hierarchical Localization at Large Scale”, CVPR 2019."
 doi: "10.3929/ethz-c-000788517"
 ---
@@ -25,13 +25,13 @@ Paper: [arXiv](https://arxiv.org/abs/1812.03506) • Code: [hfnet](https://githu
 
 ## Downloads
 
-- Dataset directory: <http://hdl.handle.net/20.500.11850/788517> (was `2019_CVPR_hierarchical_localization/`)
+- Dataset directory: <https://doi.org/10.3929/ethz-c-000788517> (was `2019_CVPR_hierarchical_localization/`)
 - SfM models:
-  - <http://hdl.handle.net/20.500.11850/788517> (was `sfm_aachen.tar.gz`)
-  - <http://hdl.handle.net/20.500.11850/788517> (was `sfm_cmu.tar.gz`)
-  - <http://hdl.handle.net/20.500.11850/788517> (was `sfm_cmu_extended.tar.gz`)
-  - <http://hdl.handle.net/20.500.11850/788517> (was `sfm_robotcar.tar.gz`)
-- HF-Net TensorFlow graph + weights: <http://hdl.handle.net/20.500.11850/788517> (was `hfnet_tf.tar.gz`)
+  - <https://doi.org/10.3929/ethz-c-000788517> (was `sfm_aachen.tar.gz`)
+  - <https://doi.org/10.3929/ethz-c-000788517> (was `sfm_cmu.tar.gz`)
+  - <https://doi.org/10.3929/ethz-c-000788517> (was `sfm_cmu_extended.tar.gz`)
+  - <https://doi.org/10.3929/ethz-c-000788517> (was `sfm_robotcar.tar.gz`)
+- HF-Net TensorFlow graph + weights: <https://doi.org/10.3929/ethz-c-000788517> (was `hfnet_tf.tar.gz`)
 
 ## Citation
 

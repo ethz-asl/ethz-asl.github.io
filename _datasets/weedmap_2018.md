@@ -3,7 +3,7 @@ layout: dataset
 title: "WeedMap: Large-scale Multispectral Weed Mapping Dataset"
 year: 2018
 tags: [agriculture, multispectral, semantic-segmentation, orthomosaic, uav]
-eth_collection_url: "http://hdl.handle.net/20.500.11850/788571"
+eth_collection_url: "https://doi.org/10.3929/ethz-c-000788571"
 paper: "I. Sa, M. Popovic, R. Khanna, Z. Chen, P. Lottes, F. Liebisch, J. Nieto, C. Stachniss, A. Walter, R. Siegwart, “WeedMap: A large-scale semantic weed mapping framework using aerial multispectral imaging and deep neural network for precision farming”, Remote Sensing, 2018."
 doi: "10.3929/ethz-c-000788571"
 ---
@@ -29,14 +29,14 @@ Multispectral UAV dataset over sugar beet fields in Eschikon (Switzerland) and R
 
 ## Downloads
 
-- Full dataset (5.36 GB): <http://hdl.handle.net/20.500.11850/788571>
+- Full dataset (5.36 GB): <https://doi.org/10.3929/ethz-c-000788571>
 - Orthomosaics:
-  - RedEdge bundle (1.9 GB): <http://hdl.handle.net/20.500.11850/788571>
-  - Sequoia bundle (1.49 GB): <http://hdl.handle.net/20.500.11850/788571>
+  - RedEdge bundle (1.9 GB): <https://doi.org/10.3929/ethz-c-000788571>
+  - Sequoia bundle (1.49 GB): <https://doi.org/10.3929/ethz-c-000788571>
   - Per-dataset archives 000–007 available (links to be updated)
 - Tiles:
-  - RedEdge bundle (637 MB): <http://hdl.handle.net/20.500.11850/788571>
-  - Sequoia bundle (444 MB): <http://hdl.handle.net/20.500.11850/788571>
+  - RedEdge bundle (637 MB): <https://doi.org/10.3929/ethz-c-000788571>
+  - Sequoia bundle (444 MB): <https://doi.org/10.3929/ethz-c-000788571>
   - Per-dataset archives 000–007 available (links to be updated)
 
 ## Citation

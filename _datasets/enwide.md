@@ -3,7 +3,7 @@ layout: dataset
 title: "ENWIDE LiDAR Inertial Dataset"
 year: 2024
 tags: [mapping, lidar, odometry, slam, degeneracy, outdoor, indoor]
-eth_collection_url: "http://hdl.handle.net/20.500.11850/787551"
+eth_collection_url: "https://doi.org/10.3929/ethz-c-000787551"
 paper: "COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry"
 doi: "10.3929/ethz-c-000787551"
 featured: true

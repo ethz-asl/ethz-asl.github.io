@@ -3,7 +3,7 @@ layout: dataset
 title: "Incremental Object Database: Multi-instance Completion Datasets"
 year: 2018
 tags: [rgbd, object-database, reconstruction, indoor]
-eth_collection_url: "http://hdl.handle.net/20.500.11850/788567"
+eth_collection_url: "https://doi.org/10.3929/ethz-c-000788567"
 paper: "Accepted to IROS 2018, “Incremental Object Database: Building 3D Models from Multiple Partial Observations”."
 doi: "10.3929/ethz-c-000788567"
 ---
@@ -20,10 +20,10 @@ RGB-D and pose data for building an incremental object database and completing 3
 
 ## Downloads
 
-- `asl_cow_20180224_161851.bag` — 10 GB: <http://hdl.handle.net/20.500.11850/788567>
-- `asl_cow_20180224_162434.bag` — 11 GB: <http://hdl.handle.net/20.500.11850/788567>
-- `asl_cow_20180224_163303.bag` — 16 GB: <http://hdl.handle.net/20.500.11850/788567>
-- `three_chairs_teaser_20180301_040531.bag` — 5 GB: <http://hdl.handle.net/20.500.11850/788567>
+- `asl_cow_20180224_161851.bag` — 10 GB: <https://doi.org/10.3929/ethz-c-000788567>
+- `asl_cow_20180224_162434.bag` — 11 GB: <https://doi.org/10.3929/ethz-c-000788567>
+- `asl_cow_20180224_163303.bag` — 16 GB: <https://doi.org/10.3929/ethz-c-000788567>
+- `three_chairs_teaser_20180301_040531.bag` — 5 GB: <https://doi.org/10.3929/ethz-c-000788567>
 
 ## Citation
 

@@ -3,7 +3,7 @@ layout: dataset
 title: "Eschikon Plant Stress Phenotyping Dataset"
 year: 2019
 tags: [agriculture, multispectral, plant-stress, field]
-eth_collection_url: "http://hdl.handle.net/20.500.11850/788562"
+eth_collection_url: "https://doi.org/10.3929/ethz-c-000788562"
 paper: "R. Khanna, L. Schmidt, J. Nieto, R. Siegwart, F. Liebisch, “A Spatio Temporal Spectral Dataset for Plant Stress Phenotyping”, Plant Methods, 2019."
 doi: "10.3929/ethz-c-000788562"
 ---
@@ -30,14 +30,14 @@ Processing utilities: [plant_stress_phenotyping](https://github.com/ethz-asl/pla
 
 ## Downloads
 
-- Dataset root: <http://hdl.handle.net/20.500.11850/788562>
-- Images (2.5 GB): <http://hdl.handle.net/20.500.11850/788562>
-- Point clouds (2.5 GB): <http://hdl.handle.net/20.500.11850/788562>
-- Calibration: <http://hdl.handle.net/20.500.11850/788562>
-- Greenhouse logs: <http://hdl.handle.net/20.500.11850/788562>
-- Box weights: <http://hdl.handle.net/20.500.11850/788562>
-- SPAD: <http://hdl.handle.net/20.500.11850/788562>
-- Yield weights: <http://hdl.handle.net/20.500.11850/788562>
+- Dataset root: <https://doi.org/10.3929/ethz-c-000788562>
+- Images (2.5 GB): <https://doi.org/10.3929/ethz-c-000788562>
+- Point clouds (2.5 GB): <https://doi.org/10.3929/ethz-c-000788562>
+- Calibration: <https://doi.org/10.3929/ethz-c-000788562>
+- Greenhouse logs: <https://doi.org/10.3929/ethz-c-000788562>
+- Box weights: <https://doi.org/10.3929/ethz-c-000788562>
+- SPAD: <https://doi.org/10.3929/ethz-c-000788562>
+- Yield weights: <https://doi.org/10.3929/ethz-c-000788562>
 
 ## Citation
 

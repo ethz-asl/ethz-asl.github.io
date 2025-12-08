@@ -3,7 +3,7 @@ layout: dataset
 title: "In-Wing Pressure Measurements for Airspeed and Airflow Angle Estimation"
 year: 2022
 tags: [uav, aerodynamics, sensing, pressure, flight]
-eth_collection_url: "http://hdl.handle.net/20.500.11850/788334"
+eth_collection_url: "https://doi.org/10.3929/ethz-c-000788334"
 paper: "G. A. Heinrich, S. Vogt, N. R. Lawrance, T. J. Stastny, R. Y. Siegwart, “In-Wing Pressure Measurements for Airspeed and Airflow Angle Estimation and High Angle-of-Attack Flight”, Journal of Guidance, Control, and Dynamics, 2022."
 doi: "10.3929/ethz-c-000788334"
 ---
@@ -25,9 +25,9 @@ Hardware designs and datasets for in-wing differential pressure sensing on a sma
 
 ## Downloads
 
-- Full dataset (3.0 GB): <http://hdl.handle.net/20.500.11850/788334>
-- STEP files (6.6 MB): <http://hdl.handle.net/20.500.11850/788334>
-- KiCAD projects (2.0 MB): <http://hdl.handle.net/20.500.11850/788334>
+- Full dataset (3.0 GB): <https://doi.org/10.3929/ethz-c-000788334>
+- STEP files (6.6 MB): <https://doi.org/10.3929/ethz-c-000788334>
+- KiCAD projects (2.0 MB): <https://doi.org/10.3929/ethz-c-000788334>
 
 ## Citation
 

@@ -3,7 +3,7 @@ layout: dataset
 title: "Dynablox: Real-time Detection of Diverse Dynamic Objects in Complex Environments"
 year: 2023
 tags: [lidar, dynamic-objects, indoor, outdoor]
-eth_collection_url: "http://hdl.handle.net/20.500.11850/788607"
+eth_collection_url: "https://doi.org/10.3929/ethz-c-000788607"
 paper: "L. Schmid, O. Andersson, A. Sulser, P. Pfreundschuh, R. Siegwart, “Dynablox: Real-time Detection of Diverse Dynamic Objects in Complex Environments”, IEEE Robotics and Automation Letters (RA-L), Vol. 8, No. 10, pp. 6259-6266, 2023."
 doi: "10.3929/ethz-c-000788607"
 ---
@@ -35,7 +35,7 @@ For each sequence there are two archive versions available:
 
 ## Downloads
 ETH Research Collection (all sequences and documentation):
-- <http://hdl.handle.net/20.500.11850/788607>
+- <https://doi.org/10.3929/ethz-c-000788607>
 
 ## Use Cases & Applications
 

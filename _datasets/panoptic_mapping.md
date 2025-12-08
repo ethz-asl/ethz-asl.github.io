@@ -3,7 +3,7 @@ layout: dataset
 title: "Panoptic Multi-TSDFs Data"
 year: 2022
 tags: [panoptic, mapping, tsdf, synthetic, indoor]
-eth_collection_url: "http://hdl.handle.net/20.500.11850/788335"
+eth_collection_url: "https://doi.org/10.3929/ethz-c-000788335"
 paper: "L. Schmid et al., “Panoptic Multi-TSDFs: a Flexible Representation for Online Multi-resolution Volumetric Mapping and Long-term Dynamic Scene Consistency”, IEEE International Conference on Robotics and Automation (ICRA), 2022."
 doi: "10.3929/ethz-c-000788335"
 ---
@@ -38,8 +38,8 @@ Code: [panoptic_mapping](https://github.com/ethz-asl/panoptic_mapping) • Paper
 
 ## Downloads
 
-- Flat dataset (392.7 MB): <http://hdl.handle.net/20.500.11850/788335>
-- RIO panoptic add-ons (87.8 MB): <http://hdl.handle.net/20.500.11850/788335>
+- Flat dataset (392.7 MB): <https://doi.org/10.3929/ethz-c-000788335>
+- RIO panoptic add-ons (87.8 MB): <https://doi.org/10.3929/ethz-c-000788335>
 
 ## Citation
 

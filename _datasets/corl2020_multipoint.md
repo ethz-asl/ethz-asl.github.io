@@ -3,7 +3,7 @@ layout: dataset
 title: "MultiPoint: Cross-spectral Optical–Thermal Aerial Imagery"
 year: 2020
 tags: [aerial, multispectral, thermal, optical, registration]
-eth_collection_url: "http://hdl.handle.net/20.500.11850/788340"
+eth_collection_url: "https://doi.org/10.3929/ethz-c-000788340"
 paper: "F. Achermann, A. Kolobov, D. Dey, T. Hinzmann, J. J. Chung, R. Siegwart, N. Lawrance, “MultiPoint: Cross-spectral registration of thermal and optical aerial imagery”, Conference on Robot Learning (CoRL), 2020."
 doi: "10.3929/ethz-c-000788340"
 ---
@@ -24,9 +24,9 @@ Aligned optical–thermal image pair dataset from fixed-wing UAV flights for cro
 
 ## Downloads
 
-- Training set (24 GB, 9340 pairs): <http://hdl.handle.net/20.500.11850/788340>
-- Test set (12 GB, 4391 pairs): <http://hdl.handle.net/20.500.11850/788340>
-- Training keypoint labels (10 MB): <http://hdl.handle.net/20.500.11850/788340>
+- Training set (24 GB, 9340 pairs): <https://doi.org/10.3929/ethz-c-000788340>
+- Test set (12 GB, 4391 pairs): <https://doi.org/10.3929/ethz-c-000788340>
+- Training keypoint labels (10 MB): <https://doi.org/10.3929/ethz-c-000788340>
 
 ## Citation
 

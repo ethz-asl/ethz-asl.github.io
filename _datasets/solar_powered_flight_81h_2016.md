@@ -3,7 +3,7 @@ layout: dataset
 title: "AtlantikSolar 81-hour Solar-powered Flight Dataset"
 year: 2016
 tags: [uav, solar, endurance, flight-data]
-eth_collection_url: "http://hdl.handle.net/20.500.11850/787517.4"
+eth_collection_url: "https://doi.org/10.3929/ethz-c-000787517"
 paper: "P. Oettershagen, A. Melzer, T. Mantel, K. Rudin, T. Stastny, B. Wawrzacz, T. Hinzmann, S. Leutenegger, K. Alexis, R. Siegwart, “Design of small hand-launched solar-powered UAVs: From concept study to a multi-day world endurance record flight”, Journal of Field Robotics (JFR), 2016."
 doi: "10.3929/ethz-c-000787517"
 ---
@@ -23,7 +23,7 @@ Refer to the original page for detailed field definitions (ASLCTRL, MPPT, batter
 
 ## Download
 
-- Full dataset (.mat in zip): <http://hdl.handle.net/20.500.11850/787517.4>
+- Full dataset (.mat in zip): <https://doi.org/10.3929/ethz-c-000787517>
 
 ## Citation
 

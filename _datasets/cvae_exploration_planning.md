@@ -3,7 +3,7 @@ layout: dataset
 title: "CVAE Exploration Planning Data"
 year: 2022
 tags: [exploration, planning, learning, mapping]
-eth_collection_url: "http://hdl.handle.net/20.500.11850/788332"
+eth_collection_url: "https://doi.org/10.3929/ethz-c-000788332"
 paper: "L. Schmid, C. Ni, et al., “Fast and Compute-efficient Sampling-based Local Exploration Planning via Distribution Learning”, IEEE Robotics and Automation Letters (RA-L), 2022."
 doi: "10.3929/ethz-c-000788332"
 ---
@@ -24,10 +24,10 @@ Additional utilities for processing and ROS playback are in the [panoptic_mappin
 
 ## Downloads
 
-- Dataset landing page: <http://hdl.handle.net/20.500.11850/788332>
-- CVAE dataset (326.4 MB): <http://hdl.handle.net/20.500.11850/788332>
-- CNN dataset (1.0 GB): <http://hdl.handle.net/20.500.11850/788332>
-- Test worlds (56.5 KB): <http://hdl.handle.net/20.500.11850/788332>
+- Dataset landing page: <https://doi.org/10.3929/ethz-c-000788332>
+- CVAE dataset (326.4 MB): <https://doi.org/10.3929/ethz-c-000788332>
+- CNN dataset (1.0 GB): <https://doi.org/10.3929/ethz-c-000788332>
+- Test worlds (56.5 KB): <https://doi.org/10.3929/ethz-c-000788332>
 
 ## Citation
 

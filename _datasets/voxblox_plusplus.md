@@ -3,7 +3,7 @@ layout: dataset
 title: "Volumetric Instance-Aware Semantic Mapping and 3D Object Discovery"
 year: 2019
 tags: [rgbd, mapping, semantic, instance, indoor]
-eth_collection_url: "http://hdl.handle.net/20.500.11850/788341"
+eth_collection_url: "https://doi.org/10.3929/ethz-c-000788341"
 paper: "M. Grinvald, F. Furrer, T. Novkovic, J. J. Chung, C. Cadena, R. Siegwart, J. Nieto, “Volumetric Instance-Aware Semantic Mapping and 3D Object Discovery”, IEEE Robotics and Automation Letters (RA-L), 2019."
 doi: "10.3929/ethz-c-000788341"
 ---
@@ -20,8 +20,8 @@ RGB-D rosbags for the Voxblox++ (Volumetric Instance-Aware Semantic Mapping) pap
 
 ## Downloads
 
-- SceneNN sequence: <http://hdl.handle.net/20.500.11850/788341> (was `scenenn_231.bag`, 7.9 GB)
-- Office floor sequence: <http://hdl.handle.net/20.500.11850/788341> (was `asl_office_floor.bag`, 6.3 GB)
+- SceneNN sequence: <https://doi.org/10.3929/ethz-c-000788341> (was `scenenn_231.bag`, 7.9 GB)
+- Office floor sequence: <https://doi.org/10.3929/ethz-c-000788341> (was `asl_office_floor.bag`, 6.3 GB)
 
 ## Citation
 
