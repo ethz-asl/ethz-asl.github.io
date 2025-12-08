@@ -3,9 +3,9 @@ layout: dataset
 title: "Reinforcement Learning for Outdoor Balloon Navigation Dataset"
 year: 2022
 tags: [uav, balloon, reinforcement-learning, outdoor, aerial]
-eth_collection_url: ""
+eth_collection_url: "http://hdl.handle.net/20.500.11850/787616"
 paper: "S. L. Jeger, N. Lawrance, F. Achermann, O. Pang, M. Kovac, R. Y. Siegwart, “Reinforcement Learning for Outdoor Balloon Navigation”, IEEE Robotics and Automation Magazine (RAM), 2022."
-doi: ""
+doi: "10.3929/ethz-c-000787616"
 ---
 
 Experiment data supporting the IEEE-RAM 2022 paper on autonomous balloon navigation. Includes indoor and outdoor flight trials, flight logs, and CAD files to replicate the balloon systems. Preview imagery to be rehosted with the dataset.

@@ -3,9 +3,9 @@ layout: dataset
 title: "Incremental Object Database: Multi-instance Completion Datasets"
 year: 2018
 tags: [rgbd, object-database, reconstruction, indoor]
-eth_collection_url: ""
+eth_collection_url: "http://hdl.handle.net/20.500.11850/788567"
 paper: "Accepted to IROS 2018, “Incremental Object Database: Building 3D Models from Multiple Partial Observations”."
-doi: ""
+doi: "10.3929/ethz-c-000788567"
 ---
 
 RGB-D and pose data for building an incremental object database and completing 3D models from multiple partial observations. Captured with a Google Tango Lenovo Phab 2 Pro; includes optimized loop-closed poses.

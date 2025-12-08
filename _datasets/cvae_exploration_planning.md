@@ -3,9 +3,9 @@ layout: dataset
 title: "CVAE Exploration Planning Data"
 year: 2022
 tags: [exploration, planning, learning, mapping]
-eth_collection_url: ""
+eth_collection_url: "http://hdl.handle.net/20.500.11850/788332"
 paper: "L. Schmid, C. Ni, et al., “Fast and Compute-efficient Sampling-based Local Exploration Planning via Distribution Learning”, IEEE Robotics and Automation Letters (RA-L), 2022."
-doi: ""
+doi: "10.3929/ethz-c-000788332"
 ---
 
 Data accompanying the CVAE exploration planning project, providing local maps with supervision signals for conditional variational autoencoder and CNN models used in learning-based exploration.

@@ -3,9 +3,9 @@ layout: dataset
 title: "Eschikon Plant Stress Phenotyping Dataset"
 year: 2019
 tags: [agriculture, multispectral, plant-stress, field]
-eth_collection_url: ""
+eth_collection_url: "http://hdl.handle.net/20.500.11850/788562"
 paper: "R. Khanna, L. Schmidt, J. Nieto, R. Siegwart, F. Liebisch, “A Spatio Temporal Spectral Dataset for Plant Stress Phenotyping”, Plant Methods, 2019."
-doi: ""
+doi: "10.3929/ethz-c-000788562"
 ---
 
 Spatio-temporal-spectral dataset of sugar beet crop growth under drought, fertilizer, and weed stress over two months in Eschikon, Switzerland. Includes biweekly RGB images, infrared stereo pairs, multispectral images, treatment parameters, and environmental logs.

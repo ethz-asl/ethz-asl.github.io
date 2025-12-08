@@ -3,9 +3,9 @@ layout: dataset
 title: "In-Wing Pressure Measurements for Airspeed and Airflow Angle Estimation"
 year: 2022
 tags: [uav, aerodynamics, sensing, pressure, flight]
-eth_collection_url: ""
+eth_collection_url: "http://hdl.handle.net/20.500.11850/788334"
 paper: "G. A. Heinrich, S. Vogt, N. R. Lawrance, T. J. Stastny, R. Y. Siegwart, “In-Wing Pressure Measurements for Airspeed and Airflow Angle Estimation and High Angle-of-Attack Flight”, Journal of Guidance, Control, and Dynamics, 2022."
-doi: "10.2514/1.G006412"
+doi: "10.3929/ethz-c-000788334"
 ---
 
 Hardware designs and datasets for in-wing differential pressure sensing on a small UAV (EasyGlider 4), covering wind tunnel and flight tests for airspeed and airflow angle estimation and deep stall/high angle-of-attack maneuvers. Preview imagery and PCB/STEP files to be rehosted with the dataset.

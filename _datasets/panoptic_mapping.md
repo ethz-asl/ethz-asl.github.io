@@ -3,9 +3,9 @@ layout: dataset
 title: "Panoptic Multi-TSDFs Data"
 year: 2022
 tags: [panoptic, mapping, tsdf, synthetic, indoor]
-eth_collection_url: ""
+eth_collection_url: "http://hdl.handle.net/20.500.11850/788335"
 paper: "L. Schmid et al., “Panoptic Multi-TSDFs: a Flexible Representation for Online Multi-resolution Volumetric Mapping and Long-term Dynamic Scene Consistency”, IEEE International Conference on Robotics and Automation (ICRA), 2022."
-doi: ""
+doi: "10.3929/ethz-c-000788335"
 ---
 
 Datasets for the Panoptic Multi-TSDFs project, including a synthetic indoor “flat” dataset rendered in Unreal Engine and supplementary panoptic data for RIO sequences to run the panoptic mapping pipeline.

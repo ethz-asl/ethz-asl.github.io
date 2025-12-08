@@ -3,9 +3,9 @@ layout: dataset
 title: "MultiPoint: Cross-spectral Optical–Thermal Aerial Imagery"
 year: 2020
 tags: [aerial, multispectral, thermal, optical, registration]
-eth_collection_url: ""
+eth_collection_url: "http://hdl.handle.net/20.500.11850/788340"
 paper: "F. Achermann, A. Kolobov, D. Dey, T. Hinzmann, J. J. Chung, R. Siegwart, N. Lawrance, “MultiPoint: Cross-spectral registration of thermal and optical aerial imagery”, Conference on Robot Learning (CoRL), 2020."
-doi: ""
+doi: "10.3929/ethz-c-000788340"
 ---
 
 Aligned optical–thermal image pair dataset from fixed-wing UAV flights for cross-spectral registration. Captured with a UI-5261SE RGB camera (16 mm) and FLIR TAU2 19 mm (7.5–13.5 μm).

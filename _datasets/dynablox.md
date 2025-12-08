@@ -3,9 +3,9 @@ layout: dataset
 title: "Dynablox: Real-time Detection of Diverse Dynamic Objects in Complex Environments"
 year: 2023
 tags: [lidar, dynamic-objects, indoor, outdoor]
-eth_collection_url: "https://www.research-collection.ethz.ch/handle/20.500.11850/XXXXX"  # TODO: replace with actual handle/DOI when it's uploaded
+eth_collection_url: "http://hdl.handle.net/20.500.11850/788607"
 paper: "L. Schmid, O. Andersson, A. Sulser, P. Pfreundschuh, R. Siegwart, “Dynablox: Real-time Detection of Diverse Dynamic Objects in Complex Environments”, IEEE Robotics and Automation Letters (RA-L), Vol. 8, No. 10, pp. 6259-6266, 2023."
-doi: "10.1109/LRA.2023.XXXXXXX"  # TODO: replace with actual DOI if available
+doi: "10.3929/ethz-c-000788607"
 ---
 
 This dataset supports the research system *Dynablox*, designed for incremental mapping-based detection of diverse moving objects in complex indoor and outdoor environments.
@@ -34,7 +34,7 @@ For each sequence there are two archive versions available:
 - **Processed**: state estimates from FAST‑LIO2, undistorted point clouds (for points with available state estimates), and typically the first second of data removed to allow FAST-LIO2 to stabilise. :contentReference[oaicite:3]{index=3}
 
 ## Downloads
-**TODO!!!** Will be part of the ETH Research Collection.
+Available via the ETH Research Collection (see DOI link above).
 
 ## Use Cases & Applications
 

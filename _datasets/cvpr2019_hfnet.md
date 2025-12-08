@@ -3,9 +3,9 @@ layout: dataset
 title: "HF-Net: Robust Hierarchical Localization at Large Scale"
 year: 2019
 tags: [localization, sfm, features, vision, 6dof]
-eth_collection_url: ""
+eth_collection_url: "http://hdl.handle.net/20.500.11850/788517"
 paper: "P.-E. Sarlin, C. Cadena, R. Siegwart, M. Dymczyk, “From Coarse to Fine: Robust Hierarchical Localization at Large Scale”, CVPR 2019."
-doi: ""
+doi: "10.3929/ethz-c-000788517"
 ---
 
 Structure-from-Motion models and trained HF-Net weights for large-scale 6-DoF localization. HF-Net is a monolithic network for feature detection/description enabling accurate, scalable, real-time localization.
