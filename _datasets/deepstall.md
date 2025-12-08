@@ -25,9 +25,9 @@ Hardware designs and datasets for in-wing differential pressure sensing on a sma
 
 ## Downloads
 
-- Full dataset (3.0 GB): **Research Collection link pending** (was `Data_Deep_Stall.7z`)
-- STEP files (6.6 MB): **Research Collection link pending** (was `dp_module_step_files.zip`)
-- KiCAD projects (2.0 MB): **Research Collection link pending** (was `KiCad.zip`)
+- Full dataset (3.0 GB): <http://hdl.handle.net/20.500.11850/788334>
+- STEP files (6.6 MB): <http://hdl.handle.net/20.500.11850/788334>
+- KiCAD projects (2.0 MB): <http://hdl.handle.net/20.500.11850/788334>
 
 ## Citation
 

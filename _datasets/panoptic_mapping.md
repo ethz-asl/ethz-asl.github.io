@@ -38,8 +38,8 @@ Code: [panoptic_mapping](https://github.com/ethz-asl/panoptic_mapping) • Paper
 
 ## Downloads
 
-- Flat dataset (392.7 MB): **Research Collection link pending** (was `flat_dataset.zip`)
-- RIO panoptic add-ons (87.8 MB): **Research Collection link pending** (was `rio_data.zip`)
+- Flat dataset (392.7 MB): <http://hdl.handle.net/20.500.11850/788335>
+- RIO panoptic add-ons (87.8 MB): <http://hdl.handle.net/20.500.11850/788335>
 
 ## Citation
 

@@ -20,8 +20,8 @@ Experiment data supporting the IEEE-RAM 2022 paper on autonomous balloon navigat
 
 ## Downloads
 
-- Indoor experimental data (includes CAD): **Research Collection link pending** (was `indoor.zip`, 76 MB)
-- Outdoor experimental data (includes CAD): **Research Collection link pending** (was `outdoor.zip`, 1 GB)
+- Indoor experimental data (includes CAD): <http://hdl.handle.net/20.500.11850/787616>
+- Outdoor experimental data (includes CAD): <http://hdl.handle.net/20.500.11850/787616>
 
 ## Citation
 

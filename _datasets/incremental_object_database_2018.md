@@ -20,10 +20,10 @@ RGB-D and pose data for building an incremental object database and completing 3
 
 ## Downloads
 
-- `asl_cow_20180224_161851.bag` — 10 GB: **Research Collection link pending**
-- `asl_cow_20180224_162434.bag` — 11 GB: **Research Collection link pending**
-- `asl_cow_20180224_163303.bag` — 16 GB: **Research Collection link pending**
-- `three_chairs_teaser_20180301_040531.bag` — 5 GB: **Research Collection link pending**
+- `asl_cow_20180224_161851.bag` — 10 GB: <http://hdl.handle.net/20.500.11850/788567>
+- `asl_cow_20180224_162434.bag` — 11 GB: <http://hdl.handle.net/20.500.11850/788567>
+- `asl_cow_20180224_163303.bag` — 16 GB: <http://hdl.handle.net/20.500.11850/788567>
+- `three_chairs_teaser_20180301_040531.bag` — 5 GB: <http://hdl.handle.net/20.500.11850/788567>
 
 ## Citation
 

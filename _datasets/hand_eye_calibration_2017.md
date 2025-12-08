@@ -16,7 +16,7 @@ Code: [hand_eye_calibration](https://github.com/ethz-asl/hand_eye_calibration)
 
 ## Downloads
 
-- Dataset collection and results: **Research Collection link pending** (was `fsr_2017_hand_eye_calibration`)
+- Dataset collection and results: <http://hdl.handle.net/20.500.11850/788527>
 
 ## Citation
 

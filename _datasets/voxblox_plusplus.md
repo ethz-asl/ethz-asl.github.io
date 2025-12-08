@@ -20,8 +20,8 @@ RGB-D rosbags for the Voxblox++ (Volumetric Instance-Aware Semantic Mapping) pap
 
 ## Downloads
 
-- SceneNN sequence: **Research Collection link pending** (was `scenenn_231.bag`, 7.9 GB)
-- Office floor sequence: **Research Collection link pending** (was `asl_office_floor.bag`, 6.3 GB)
+- SceneNN sequence: <http://hdl.handle.net/20.500.11850/788341> (was `scenenn_231.bag`, 7.9 GB)
+- Office floor sequence: <http://hdl.handle.net/20.500.11850/788341> (was `asl_office_floor.bag`, 6.3 GB)
 
 ## Citation
 

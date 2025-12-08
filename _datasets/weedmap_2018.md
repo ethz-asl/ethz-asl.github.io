@@ -29,14 +29,14 @@ Multispectral UAV dataset over sugar beet fields in Eschikon (Switzerland) and R
 
 ## Downloads
 
-- Full dataset (5.36 GB): **Research Collection link pending** (was `2018-weedMap-dataset-release.zip`)
+- Full dataset (5.36 GB): <http://hdl.handle.net/20.500.11850/788571>
 - Orthomosaics:
-  - RedEdge bundle (1.9 GB): **Research Collection link pending** (was `Orthomosaic/RedEdge.zip`)
-  - Sequoia bundle (1.49 GB): **Research Collection link pending** (was `Orthomosaic/Sequoia.zip`)
+  - RedEdge bundle (1.9 GB): <http://hdl.handle.net/20.500.11850/788571>
+  - Sequoia bundle (1.49 GB): <http://hdl.handle.net/20.500.11850/788571>
   - Per-dataset archives 000–007 available (links to be updated)
 - Tiles:
-  - RedEdge bundle (637 MB): **Research Collection link pending** (was `Tiles/RedEdge.zip`)
-  - Sequoia bundle (444 MB): **Research Collection link pending** (was `Tiles/Sequoia.zip`)
+  - RedEdge bundle (637 MB): <http://hdl.handle.net/20.500.11850/788571>
+  - Sequoia bundle (444 MB): <http://hdl.handle.net/20.500.11850/788571>
   - Per-dataset archives 000–007 available (links to be updated)
 
 ## Citation

@@ -25,13 +25,13 @@ Paper: [arXiv](https://arxiv.org/abs/1812.03506) • Code: [hfnet](https://githu
 
 ## Downloads
 
-- Dataset directory: **Research Collection link pending** (was `2019_CVPR_hierarchical_localization/`)
+- Dataset directory: <http://hdl.handle.net/20.500.11850/788517> (was `2019_CVPR_hierarchical_localization/`)
 - SfM models:
-  - **Research Collection link pending** (was `sfm_aachen.tar.gz`)
-  - **Research Collection link pending** (was `sfm_cmu.tar.gz`)
-  - **Research Collection link pending** (was `sfm_cmu_extended.tar.gz`)
-  - **Research Collection link pending** (was `sfm_robotcar.tar.gz`)
-- HF-Net TensorFlow graph + weights: **Research Collection link pending** (was `hfnet_tf.tar.gz`)
+  - <http://hdl.handle.net/20.500.11850/788517> (was `sfm_aachen.tar.gz`)
+  - <http://hdl.handle.net/20.500.11850/788517> (was `sfm_cmu.tar.gz`)
+  - <http://hdl.handle.net/20.500.11850/788517> (was `sfm_cmu_extended.tar.gz`)
+  - <http://hdl.handle.net/20.500.11850/788517> (was `sfm_robotcar.tar.gz`)
+- HF-Net TensorFlow graph + weights: <http://hdl.handle.net/20.500.11850/788517> (was `hfnet_tf.tar.gz`)
 
 ## Citation
 

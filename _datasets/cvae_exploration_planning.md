@@ -24,10 +24,10 @@ Additional utilities for processing and ROS playback are in the [panoptic_mappin
 
 ## Downloads
 
-- Dataset landing page: **Research Collection link pending** (was `2022_CVAE_Exploration_Planning/`)
-- CVAE dataset (326.4 MB): **Research Collection link pending** (was `CVAE_dataset.npy`)
-- CNN dataset (1.0 GB): **Research Collection link pending** (was `CNN_dataset.npy`)
-- Test worlds (56.5 KB): **Research Collection link pending** (was `test_worlds.zip`)
+- Dataset landing page: <http://hdl.handle.net/20.500.11850/788332>
+- CVAE dataset (326.4 MB): <http://hdl.handle.net/20.500.11850/788332>
+- CNN dataset (1.0 GB): <http://hdl.handle.net/20.500.11850/788332>
+- Test worlds (56.5 KB): <http://hdl.handle.net/20.500.11850/788332>
 
 ## Citation
 

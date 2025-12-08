@@ -24,9 +24,9 @@ Aligned optical–thermal image pair dataset from fixed-wing UAV flights for cro
 
 ## Downloads
 
-- Training set (24 GB, 9340 pairs): **Research Collection link pending** (was `training.hdf5`)
-- Test set (12 GB, 4391 pairs): **Research Collection link pending** (was `test.hdf5`)
-- Training keypoint labels (10 MB): **Research Collection link pending** (was `labels_training.hdf5`)
+- Training set (24 GB, 9340 pairs): <http://hdl.handle.net/20.500.11850/788340>
+- Test set (12 GB, 4391 pairs): <http://hdl.handle.net/20.500.11850/788340>
+- Training keypoint labels (10 MB): <http://hdl.handle.net/20.500.11850/788340>
 
 ## Citation
 

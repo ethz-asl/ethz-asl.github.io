@@ -30,14 +30,14 @@ Processing utilities: [plant_stress_phenotyping](https://github.com/ethz-asl/pla
 
 ## Downloads
 
-- Dataset root: **Research Collection link pending** (was `2018_plant_stress_phenotyping_dataset/`)
-- Images (2.5 GB): **Research Collection link pending** (was `images.zip`)
-- Point clouds (2.5 GB): **Research Collection link pending** (was `pointclouds.zip`)
-- Calibration: **Research Collection link pending** (was `calibration.zip`)
-- Greenhouse logs: **Research Collection link pending** (was `greenhouse-temperature-humidity-logs.csv`)
-- Box weights: **Research Collection link pending** (was `box-weights-kg.csv`)
-- SPAD: **Research Collection link pending** (was `spad-measurements.csv`)
-- Yield weights: **Research Collection link pending** (was `yield-weight-grams.csv`)
+- Dataset root: <http://hdl.handle.net/20.500.11850/788562>
+- Images (2.5 GB): <http://hdl.handle.net/20.500.11850/788562>
+- Point clouds (2.5 GB): <http://hdl.handle.net/20.500.11850/788562>
+- Calibration: <http://hdl.handle.net/20.500.11850/788562>
+- Greenhouse logs: <http://hdl.handle.net/20.500.11850/788562>
+- Box weights: <http://hdl.handle.net/20.500.11850/788562>
+- SPAD: <http://hdl.handle.net/20.500.11850/788562>
+- Yield weights: <http://hdl.handle.net/20.500.11850/788562>
 
 ## Citation
 
