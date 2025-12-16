@@ -1,6 +1,6 @@
 ---
-title: Dokue redirector
-permalink: /doku.php/
+title: Datasets have moved.
+permalink: /datasets/doku.php/
 ---
 
-test
+This ressource has permanently moved, please check the main page [https://ethz-asl.github.io/datasets/](https://ethz-asl.github.io/datasets/).
